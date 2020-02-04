@@ -41,7 +41,7 @@ You can then use this library in your project. Test this by going to your App.ts
 
 ```js
 import { Foo } from '@robbie-cook/react-library-example'
-```.
+```
 
 Then, go to your render function and add the line: 
 `<Foo />` inside your returned JSX. If this works, you have set up the library correctly
