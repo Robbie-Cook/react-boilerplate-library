@@ -44,9 +44,9 @@ import { Foo } from '@robbie-cook/react-library-example'
 ```
 
 Then, go to your render function and add the line: 
-`<Foo />` inside your returned JSX. If this works, you have set up the library correctly
+`<Foo />` inside your returned JSX. If this works, you have set up the library correctly.
 
-Look up these functions in node-helper.mjs for a detailed description.
+Happy coding!
 
 ## Recognition
 
